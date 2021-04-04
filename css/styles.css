@@ -79,7 +79,8 @@ hr {
 
 .nav-item-home:hover
 {
-    height: 300px;
+    height: 235px;
+    background-color: #FDD7C4;
 }
 
 .nav-item-about
@@ -102,7 +103,8 @@ hr {
 
 .nav-item-about:hover
 {
-    height: 300px;
+    height: 235px;
+    background-color: #3FDCDE;
 }
 .nav-item-work
 {
@@ -124,7 +126,8 @@ hr {
 
 .nav-item-work:hover
 {
-    height: 300px;
+    height: 235px;
+    background-color: #53DFAC;
 }
 
 .nav-item-more
@@ -147,7 +150,8 @@ hr {
 
 .nav-item-more:hover
 {
-    height: 300px;
+    height: 235px;
+    background-color: #ef819c; 
 }
 body{
     background-color: var(--background);
